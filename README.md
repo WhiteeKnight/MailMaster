@@ -14,5 +14,4 @@ cd MailMaster
 python3 e-mails.py
 
 
-
-
+Use "  git pull  " para atualizar a ferramenta se algo der errado
